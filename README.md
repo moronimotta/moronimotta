@@ -1,16 +1,30 @@
-### Hi there 👋
+<header>
+<h1>Hey, I didn't see you there!</h1>
+<img  src="https://c.tenor.com/ZSm562QfqDAAAAAC/jim-halpert-the-office.gif"/>
+</header>
 
-<!--
-**moronimotta/moronimotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### 📚 Languages:
+<div>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="typescript icon" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+ </div>
+
+---
+### 🎯 About me:
+- <img align="left" alt="BYU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brigham_Young_University%E2%80%93Idaho_medallion.svg/1200px-Brigham_Young_University%E2%80%93Idaho_medallion.svg.png" style="padding-right:1px;" />Software Engeneering Student at BYU - Idaho;
+- Digital Artist in my spare time;
+- I like to study ancient jewish culture;
+---
+### 📫 Connect with me:
+
+<a href= "https://www.instagram.com/moroniaarthur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href= "https://www.linkedin.com/in/moronimotta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
