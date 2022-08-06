@@ -21,6 +21,7 @@
 ---
 ### 🎯 About me:
 - <img align="left" alt="BYU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brigham_Young_University%E2%80%93Idaho_medallion.svg/1200px-Brigham_Young_University%E2%80%93Idaho_medallion.svg.png" style="padding-right:1px;" />Software Engeneering Student at BYU - Idaho;
+
 - Digital Artist in my spare time;
 - I like to study ancient jewish culture;
 ---
