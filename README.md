@@ -1,9 +1,4 @@
 # Hi, I'm Moroni 👋
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moronimotta&show_icons=true&theme=radical" alt="Moroni's GitHub Stats" />
-</div>
-
 ---
 
 I'm **Moroni Motta**, a Software Developer and Software Engineering student at **Brigham Young University–Idaho**.
